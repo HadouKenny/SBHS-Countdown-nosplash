@@ -7,11 +7,12 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Belltimes</name>
+    <name>Belltimes (no splash)</name>
 
     <description>
         A minimalistic belltime countdown for Sydney Boys High School, 2013
         SBHS Belltimes also available on www.sydneyboyshigh.asia 
+        This version does not have the splash screen
     </description>
     
     <preference name="permissions" value="none"/>
